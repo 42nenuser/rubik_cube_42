@@ -11,10 +11,24 @@ This project is a **Rubik's Cube visualizer** built using **Three.js**. It curre
 - **Scene Management** for organizing rendering logic.
 - **Modular Design** with separate files for different functionalities.
 
-## Next Steps
-- Implement a **3x3 Rubik's Cube solving algorithm** in Python or C++.
-- Parse the algorithm's output and integrate it with **Three.js** for visualization.
-- Enhance interactivity and animations (maybe , maybe not)
+## 🚀 Next Steps
+
+### 🎯 Objective
+- 🧩 **Write a program** that finds the **shortest solution** to a **3x3 Rubik’s Cube** given a sequence of moves.
+- ⏳ **Solve the cube** in an average of **50 moves or fewer** within **3 seconds**.
+- 🔄 Uses **Half-Turn Metric (HTM)** for move counting.
+
+### ⚙️ Technical Requirements
+- ✅ The program must **accept a scramble sequence** as input.
+- 📜 Output the solution in **standard Rubik’s notation**:  
+  `F, R, U, B, L, D`
+- ❌ **Prohibited moves**:  
+  - `M, E, S` (middle layer moves)  
+  - `x, y, z` (cube rotations)
+- 🖥️ Written in **any language**:  
+  `C, C++, Python, Java, etc.`
+- 🚫 **No external libraries** that solve the cube are allowed.
+
 
 ## Installation and Setup
 To set up and run the project, follow these steps:
