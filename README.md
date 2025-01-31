@@ -7,14 +7,14 @@ This project is a **Rubik's Cube visualizer** built using **Three.js**. It curre
 
 ## Features
 - **3D Rendering** of a 2x2 Rubik's Cube using Three.js.
-- **Camera Controls** to navigate around the cube.
+- **Camera/keyboard Controls** to navigate around the cube + moving the cubelets with the keyboard 
 - **Scene Management** for organizing rendering logic.
 - **Modular Design** with separate files for different functionalities.
 
 ## Next Steps
 - Implement a **3x3 Rubik's Cube solving algorithm** in Python or C++.
 - Parse the algorithm's output and integrate it with **Three.js** for visualization.
-- Enhance interactivity and animations.
+- Enhance interactivity and animations (maybe , maybe not)
 
 ## Installation and Setup
 To set up and run the project, follow these steps:
