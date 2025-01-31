@@ -5,7 +5,7 @@ This project is a **Rubik's Cube visualizer** built using **Three.js**. It curre
 
 ![Rubik's Cube Animation](rubikcube.gif)
 
-## Features
+## Current features
 - **3D Rendering** of a 2x2 Rubik's Cube using Three.js.
 - **Camera/keyboard Controls** to navigate around the cube + moving the cubelets with the keyboard 
 - **Scene Management** for organizing rendering logic.
